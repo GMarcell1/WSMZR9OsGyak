@@ -7,7 +7,7 @@
 #include <sys/wait.h>
 #include <string.h>
 
-#define TMP "/tmp/OYFTRQ"
+#define TMP "/tmp/WSMZR9"
 
 int main(void)
 {
